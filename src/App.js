@@ -13,6 +13,8 @@
     //}
 //}
 //export default App;
+
+
 import React from 'react';
 import Add from './components/Add';
 import Another from './components/Another';
@@ -21,7 +23,9 @@ import Props from './components/Props';
 import IfCon from './components/ConditionalRendering/IfCon'
 import AndCon from './components/ConditionalRendering/AndCon';
 import './components/app.css';
-
+import Event from './components/Event';
+import UseState from './components/UseState';
+import UseEffect from './components/UseEffect';
 
 function App() {
   return (
@@ -35,6 +39,9 @@ function App() {
       <Props/>
       <IfCon/>
       <AndCon/>
+      <Event/>
+      <UseState/>
+      <UseEffect/>
     </>
   );
 }
