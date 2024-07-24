@@ -3,7 +3,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## All basic concepts of React have been performed in the above Files of .jsx.
 ## Concepts
-(*1.Render HTML*)
+1. Render HTML
+2. Components
+3. Props
+4. Events
+5. Conditionals
+6. Lists
+7. Router
+8. useState
+9. useEffect
+10. useRef
+11. useReducer
+    
 
 ## Available Scripts
 
