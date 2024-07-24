@@ -26,6 +26,9 @@ import './components/app.css';
 import Event from './components/Event';
 import UseState from './components/UseState';
 import UseEffect from './components/UseEffect';
+import UseReducer from './components/UseReducer';
+import UseRef from './components/UseRef';
+import AppRouter from './components/AppRouter';
 
 function App() {
   return (
@@ -42,6 +45,9 @@ function App() {
       <Event/>
       <UseState/>
       <UseEffect/>
+      <UseReducer/>
+      <UseRef/>
+      <AppRouter/>
     </>
   );
 }
