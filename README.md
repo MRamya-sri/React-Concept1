@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with a [Create React App](https://github.com/facebook/create-react-app).
 ## All basic concepts of React have been performed in the above Files of .jsx.
 ## Concepts
 1. Render HTML
